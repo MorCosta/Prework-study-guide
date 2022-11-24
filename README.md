@@ -1,6 +1,7 @@
 # Don't panic. A prework study guide for beginners.
 
-## I created this guide because learn how to code can be challenging. Specially for someone that has no knowledge of the subject!...Like me. This is why I wanted to share my notes with you. This will (hopefully)help you to sail through subjects like HTML, CSS, JavaScript and Git. And remeber...don't panic! 
+## Description
+I created this guide because learn how to code can be challenging. Specially for someone that has no knowledge of the subject!...Like me. This is why I wanted to share my notes with you. This will (hopefully)help you to sail through subjects like HTML, CSS, JavaScript and Git. And remeber...don't panic! 
 
 
 ## Installation
